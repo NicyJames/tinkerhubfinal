@@ -1,3 +1,3 @@
 # tinkerhubfinal
 final
-https://github.com/NicyJames/tinkerhubfinal.git
+https://nicyjames.github.io/tinkerhubfinal/
